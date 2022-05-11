@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sse.iml" filepath="$PROJECT_DIR$/sse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sse-backend/sse-backend.iml" filepath="$PROJECT_DIR$/sse-backend/sse-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-client/test-client.iml" filepath="$PROJECT_DIR$/test-client/test-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-client-gatling/test-client-gatling.iml" filepath="$PROJECT_DIR$/test-client-gatling/test-client-gatling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-client-java/test-client-java.iml" filepath="$PROJECT_DIR$/test-client-java/test-client-java.iml" />
+    </modules>
+  </component>
+</project>
